@@ -10,7 +10,7 @@ O objetivo deste projeto é realizar uma análise de dados com informações de 
 
 Para executar os scripts deste projeto, você precisará das seguintes bibliotecas:
 
-* python = `3.12`
+* python: `3.12`
 * pandas: `2.2.3`
 * xlrd: `2.0.1`
 * requests: `2.32.3`
