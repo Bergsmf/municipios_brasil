@@ -1,0 +1,36 @@
+2024-10-20T19:18:14.129981+0100 INFO Chamando função 'extrair_dados_populacao'
+2024-10-20T19:18:14.220365+0100 SUCCESS Função 'extrair_dados_populacao' execurada com sucesso
+2024-10-20T19:18:14.228429+0100 INFO Função 'extrair_dados_populacao' executada em 0.0984 segundos
+2024-10-20T19:18:14.229203+0100 INFO Chamando função 'extrair_dados_area'
+2024-10-20T19:18:14.313038+0100 SUCCESS Função 'extrair_dados_area' execurada com sucesso
+2024-10-20T19:18:14.313038+0100 INFO Função 'extrair_dados_area' executada em 0.0838 segundos
+2024-10-20T19:18:14.313038+0100 INFO Chamando função 'transformacao_renomear_colunas_populacao'
+2024-10-20T19:18:14.320853+0100 SUCCESS Função 'transformacao_renomear_colunas_populacao' execurada com sucesso
+2024-10-20T19:18:14.320853+0100 INFO Função 'transformacao_renomear_colunas_populacao' executada em 0.0078 segundos
+2024-10-20T19:18:14.320853+0100 INFO Chamando função 'transformacao_renomear_colunas_area'
+2024-10-20T19:18:14.320853+0100 SUCCESS Função 'transformacao_renomear_colunas_area' execurada com sucesso
+2024-10-20T19:18:14.320853+0100 INFO Função 'transformacao_renomear_colunas_area' executada em 0.0000 segundos
+2024-10-20T19:18:14.320853+0100 INFO Chamando função 'transformacao_densidade_populacional'
+2024-10-20T19:18:14.320853+0100 SUCCESS Função 'transformacao_densidade_populacional' execurada com sucesso
+2024-10-20T19:18:14.320853+0100 INFO Função 'transformacao_densidade_populacional' executada em 0.0000 segundos
+2024-10-20T19:18:14.328888+0100 INFO Chamando função 'transformacao_dados_estado'
+2024-10-20T19:18:14.328888+0100 SUCCESS Função 'transformacao_dados_estado' execurada com sucesso
+2024-10-20T19:18:14.328888+0100 INFO Função 'transformacao_dados_estado' executada em 0.0000 segundos
+2024-10-20T19:18:14.328888+0100 INFO Chamando função 'ler_chave_api'
+2024-10-20T19:18:14.328888+0100 SUCCESS Função 'ler_chave_api' execurada com sucesso
+2024-10-20T19:18:14.328888+0100 INFO Função 'ler_chave_api' executada em 0.0000 segundos
+2024-10-20T19:18:14.328888+0100 INFO Chamando função 'extrair_dados_api'
+2024-10-20T19:18:25.465059+0100 SUCCESS Função 'extrair_dados_api' execurada com sucesso
+2024-10-20T19:18:25.465059+0100 INFO Função 'extrair_dados_api' executada em 11.1362 segundos
+2024-10-20T19:18:25.465059+0100 INFO Chamando função 'transformacao_converte_horario'
+2024-10-20T19:18:25.482954+0100 SUCCESS Função 'transformacao_converte_horario' execurada com sucesso
+2024-10-20T19:18:25.482954+0100 INFO Função 'transformacao_converte_horario' executada em 0.0179 segundos
+2024-10-20T19:18:25.484331+0100 INFO Chamando função 'carregar_dados'
+2024-10-20T19:18:25.496951+0100 SUCCESS Função 'carregar_dados' execurada com sucesso
+2024-10-20T19:18:25.496951+0100 INFO Função 'carregar_dados' executada em 0.0126 segundos
+2024-10-20T19:18:25.496951+0100 INFO Chamando função 'carregar_dados'
+2024-10-20T19:18:25.496951+0100 SUCCESS Função 'carregar_dados' execurada com sucesso
+2024-10-20T19:18:25.496951+0100 INFO Função 'carregar_dados' executada em 0.0000 segundos
+2024-10-20T19:18:25.496951+0100 INFO Chamando função 'carregar_dados'
+2024-10-20T19:18:25.669891+0100 SUCCESS Função 'carregar_dados' execurada com sucesso
+2024-10-20T19:18:25.669891+0100 INFO Função 'carregar_dados' executada em 0.1729 segundos
