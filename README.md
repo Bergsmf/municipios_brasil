@@ -37,3 +37,5 @@ Chaves API
 3) Calcula densidade populacional;
 4) Soma população de cada estado;
 5) Extrai informações climáticas dos 60 municípios de maior densidade; populacional (necessária chave API OpenWeather);
+
+# ![Fluxo de dados](https://github.com/Bergsmf/municipios_brasil/blob/main/municipios.png?raw=true)
